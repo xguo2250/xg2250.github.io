@@ -7,11 +7,11 @@ function draw() {
   background('black');
   // see https://p5js.org/referenfe/#p5/fill
   fill(255, 0, 0);
-  rect(40, 40, 80, 80);
+  rect(280, 220, 80, 80);
   // see https://p5js.org/referenfe/#p5/ellipse
-  ellipse(56, 46, 55, 55);
+  ellipse(285, 225, 70, 70);
   // see https://p5js.org/referenfe/#p5/text
   textSize(40);
   fill(255, 144, 0);
-  text('Xin says hello world', 10, 60)
+  text('Xin says hello world', 200, 60)
 }
