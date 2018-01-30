@@ -3,15 +3,23 @@ function setup() {
 }
 
 function draw() {
-  // see https://p5js.org/reference/#p5/background
-  background('black');
-  // see https://p5js.org/referenfe/#p5/fill
-  fill(255, 0, 0);
-  rect(280, 220, 80, 80);
-  // see https://p5js.org/referenfe/#p5/ellipse
-  ellipse(285, 225, 70, 70);
-  // see https://p5js.org/referenfe/#p5/text
-  textSize(40);
-  fill(255, 144, 0);
-  text('Xin says hello world', 200, 60)
+  background('grey');
+  fill(255, 102, 0);
+
+  // Map the function second() to values from 0~400
+  rect(540, 20, 40, map(second(), 0, 60, 0, 400));
+  
+  push(); // Start a new drawing state
+  scale(5,5);
+  ellipse(50,50,50,50);
+  pop(); //Restor original state (scale, specifically)
+ 
+
+  // First change teh mode to degrees ( default is radians)
+  angleMode(degrees)
+  // Map the function miute() to values from 0~360
+  rotate(map(minute(), 0, 60 ,0, 360));
+  textSize(24);
+  fill(0, 102, 153);
+  text('Xin says hello world', 300, 240)
 }
