@@ -1,17 +1,17 @@
 function setup(){
   createCanvas(450,480);
   frameRate(1);
-  noStroke();
 }
 
 function draw(){
   background(80);
-  stroke(0);
 
   var s = second();
   var m = minute();
   var h = hour();
 
+  fill(255);
+  stroke(255);
   text('  Time:\n' + h + ':'+ m +':'+ s,50, 280);
 
   fill(255,0,0);
