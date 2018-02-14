@@ -18,7 +18,7 @@ function setup() {
 
 function draw() {
  
-  background(50);
+  background(0);
   textSize(16);
 
   for (var i = 0; i < nytResponse.results.length; i++){
@@ -28,7 +28,7 @@ function draw() {
   }
   
   for (var i = 0; i < headlines.length; i++) {
-    fill(128+(i*10));
+    fill(100+(i*10));
     text(headlines[i], 50, 50+i*20);
   }
 }
