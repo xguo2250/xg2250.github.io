@@ -32,8 +32,8 @@ function draw() {
     var X = 0
 
     for(var k = 0; k < words.length; k++) {
-      if (words[k].toLowerCase().indexOf('out') !== -1 ||
-        words[k].toLowerCase().indexOf('in') !== -1) {
+      if (words[k].toLowerCase().indexOf('the') !== -1 ||
+        words[k].toLowerCase().indexOf('of') !== -1) {
           fill(255,255,0);
       } else{
         fill(255);
