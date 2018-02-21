@@ -51,3 +51,6 @@ function setup() {
   draw1();
 }
 
+function mousePressed() {
+  shuffle(headlines, true);
+}
