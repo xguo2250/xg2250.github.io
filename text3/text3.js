@@ -13,14 +13,15 @@ function preload() {
 function setup() {
   
   createCanvas(800,1000);
+
 }
 
 
-  function draw() {
+  function draw1() {
 
   fill(0, 255, 0);
   textSize(40);
-  text("click", 50, 50);
+  text("click anywhere", 50, 50);
   }
 
   function draw() {
@@ -36,16 +37,17 @@ function setup() {
   
   if (mouseIsPressed) {
     noFill();
-    stroke(0, 255, 0);
-    text("What are you looking for", mouseX, mouseY);
-  }
+    stroke(255, 255, 0);
+    text(headlines[i], mouseX, mouseY);
+  } 
+  
 
   for (var i = 0; i < headlines.length; i++) {
     fill(20+(i*10));
     textLeading((mouseX/ width)* 64);
     text(headlines[i], 50, 50+i*20);
   }
+
+  draw1();
 }
-
-
 
