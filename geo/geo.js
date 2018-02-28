@@ -1,0 +1,54 @@
+var data;
+var AirQuality;
+var Year
+
+// preload table data
+function preload() {
+    data = loadTable(
+      'Air_Quality.csv', 'csv', 'header');
+}
+
+// using a p5js table object, return an object having
+// the values of the given column, plus the minimum value
+// and maximum value from that column
+function colValsMinMax(tab, colName) {
+  var vals = data.getColumn(colName);
+  var obj = {
+    values: vals,
+    min: min(vals),
+    max: max(vals),
+  }
+  return obj;
+}
+
+function draw() { 
+  createCanvas(640, 480);
+  //row num
+  console.log(data.getRowCount());
+  //columns num
+  console.log(data.columns);
+  
+  background(50);
+  stroke(255);
+  
+  // fetch values and min/max for airquality
+  var AirQuality = colValsMinMax(data, "data_valuemessage");
+  console.log(AirQuality.min);
+  console.log(AirQuality.max);
+  
+  var Year = colValsMinMax(data, "year_description");
+  console.log(Year.min);
+  console.log(Year.max);
+  
+
+  // noprotect
+  for (var i = 0; i < data.getRowCount(); i++) {
+    
+    // x position is pm2.5; y position is wind speed
+    stroke(255, 128, 128);
+    var xpos = map(AirQuality.values[i], AirQulity.min, AirQulity.max, 0, width);
+    var ypos = map(Year.values[i], Year.min, Year.max, height, 0);
+    
+    point(xpos, ypos);   
+  }
+}
