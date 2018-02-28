@@ -21,7 +21,7 @@ function setup() {
 
   fill(255, 255, 255);
   textSize(30);
-  text("Click to refresh", 50, 10);
+  text("Click", 50, 10);
   }
 
   function draw() {
