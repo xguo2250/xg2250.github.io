@@ -12,22 +12,25 @@ function preload() {
 
 function setup() {
   
-  createCanvas(800,1000);
+  createCanvas(800,1200);
 
 }
 
 
   function draw1() {
 
-  fill(0, 255, 0);
-  textSize(40);
-  text("click anywhere", 50, 50);
+  fill(255, 255, 255);
+  textSize(30);
+  text("Click to refresh", 50, 10);
   }
 
   function draw() {
 
   background(0);
   textSize(16);
+  
+  var margin = 50;
+  translate(margin, margin);
 
   for (var i = 0; i < nytResponse.results.length; i++){
     var h = nytResponse.results[i].title;
@@ -37,7 +40,7 @@ function setup() {
   
   if (mouseIsPressed) {
     noFill();
-    stroke(255, 255, 0);
+    stroke(200,80,0);
     text(headlines[i], mouseX, mouseY);
   } 
   
