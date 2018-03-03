@@ -22,7 +22,7 @@ function colValsMinMax(tab, colName) {
 }
 
 function draw() { 
-  createCanvas(640, 480);
+  createCanvas(800, 800);
   //row num
   console.log(data.getRowCount());
   //columns num
@@ -44,9 +44,9 @@ function draw() {
   // noprotect
   for (var i = 0; i < data.getRowCount(); i++) {
     
-    // x position is pm2.5; y position is wind speed
+    // x position is air quaitly; y position is year
     stroke(255, 128, 128);
-    var xpos = map(AirQuality.values[i], AirQulity.min, AirQulity.max, 0, width);
+    var xpos = map(AirQuality.values[i], AirQulity.min, AirQuality.max, 0, width);
     var ypos = map(Year.values[i], Year.min, Year.max, height, 0);
     
     point(xpos, ypos);   
