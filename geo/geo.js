@@ -8,9 +8,6 @@ function preload() {
       'Air_Quality.csv', 'csv', 'header');
 }
 
-// using a p5js table object, return an object having
-// the values of the given column, plus the minimum value
-// and maximum value from that column
 function colValsMinMax(tab, colName) {
   var vals = data.getColumn(colName);
   var obj = {
@@ -31,7 +28,7 @@ function draw() {
   background(50);
   stroke(255);
   
-  // fetch values and min/max for airquality
+  // values and min/max for airquality
   var AirQuality = colValsMinMax(data, "data_valuemessage");
   console.log(AirQuality.min);
   console.log(AirQuality.max);
@@ -40,8 +37,6 @@ function draw() {
   console.log(Year.min);
   console.log(Year.max);
   
-
-  // noprotect
   for (var i = 0; i < data.getRowCount(); i++) {
     
     // x position is air quaitly; y position is year
