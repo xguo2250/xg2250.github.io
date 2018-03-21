@@ -5,7 +5,7 @@ var Year
 // preload table data
 function preload() {
     data = loadTable(
-      'Air_Quality.csv', 'csv', 'header');
+      'Air_Quality.csv');
 }
 
 function colValsMinMax(tab, colName) {
@@ -41,7 +41,7 @@ function draw() {
     
     // x position is air quaitly; y position is year
     stroke(255, 128, 128);
-    var xpos = map(AirQuality.values[i], AirQulity.min, AirQuality.max, 0, width);
+    var xpos = map(AirQuality.values[i], AirQuality.min, AirQuality.max, 0, width);
     var ypos = map(Year.values[i], Year.min, Year.max, height, 0);
     
     point(xpos, ypos);   
