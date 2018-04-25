@@ -1,0 +1,3662 @@
+[
+ {
+   "FIELD1": "date",
+   "FIELD2": "pm2.5",
+   "FIELD3": "temp",
+   "FIELD4": "pressure",
+   "FIELD5": "wind",
+   "FIELD6": "wind_speed",
+   "FIELD7": "Is",
+   "FIELD8": "Ir"
+ },
+ {
+   "FIELD1": "1/1/17",
+   "FIELD2": "23",
+   "FIELD3": "10",
+   "FIELD4": "1015",
+   "FIELD5": "NW",
+   "FIELD6": "48.73",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "1/2/17",
+   "FIELD2": "95",
+   "FIELD3": "5",
+   "FIELD4": "1019",
+   "FIELD5": "cv",
+   "FIELD6": "1.78",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "1/3/17",
+   "FIELD2": "25",
+   "FIELD3": "8",
+   "FIELD4": "1023",
+   "FIELD5": "NW",
+   "FIELD6": "20.56",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "1/4/17",
+   "FIELD2": "173",
+   "FIELD3": "0",
+   "FIELD4": "1023",
+   "FIELD5": "NE",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "1/5/17",
+   "FIELD2": "54",
+   "FIELD3": "5",
+   "FIELD4": "1025",
+   "FIELD5": "NE",
+   "FIELD6": "3.13",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "1/6/17",
+   "FIELD2": "150",
+   "FIELD3": "0",
+   "FIELD4": "1026",
+   "FIELD5": "SE",
+   "FIELD6": "18.78",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "1/7/17",
+   "FIELD2": "102",
+   "FIELD3": "3",
+   "FIELD4": "1027",
+   "FIELD5": "NE",
+   "FIELD6": "8.94",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "1/8/17",
+   "FIELD2": "22",
+   "FIELD3": "0",
+   "FIELD4": "1034",
+   "FIELD5": "NW",
+   "FIELD6": "8.94",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "1/9/17",
+   "FIELD2": "17",
+   "FIELD3": "0",
+   "FIELD4": "1032",
+   "FIELD5": "NW",
+   "FIELD6": "42.47",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "1/10/17",
+   "FIELD2": "69",
+   "FIELD3": "0",
+   "FIELD4": "1031",
+   "FIELD5": "cv",
+   "FIELD6": "2.67",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "1/11/17",
+   "FIELD2": "81",
+   "FIELD3": "1",
+   "FIELD4": "1030",
+   "FIELD5": "NW",
+   "FIELD6": "5.37",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "1/12/17",
+   "FIELD2": "10",
+   "FIELD3": "1",
+   "FIELD4": "1038",
+   "FIELD5": "cv",
+   "FIELD6": "0.89",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "1/13/17",
+   "FIELD2": "106",
+   "FIELD3": "0",
+   "FIELD4": "1031",
+   "FIELD5": "cv",
+   "FIELD6": "2.67",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "1/14/17",
+   "FIELD2": "168",
+   "FIELD3": "1",
+   "FIELD4": "1035",
+   "FIELD5": "cv",
+   "FIELD6": "1.78",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "1/15/17",
+   "FIELD2": "55",
+   "FIELD3": "2",
+   "FIELD4": "1032",
+   "FIELD5": "cv",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "1/16/17",
+   "FIELD2": "457",
+   "FIELD3": "2",
+   "FIELD4": "1027",
+   "FIELD5": "NE",
+   "FIELD6": "5.81",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "1/17/17",
+   "FIELD2": "115",
+   "FIELD3": "1",
+   "FIELD4": "1032",
+   "FIELD5": "SE",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "1/18/17",
+   "FIELD2": "56",
+   "FIELD3": "5",
+   "FIELD4": "1034",
+   "FIELD5": "cv",
+   "FIELD6": "0.89",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "1/19/17",
+   "FIELD2": "185",
+   "FIELD3": "1",
+   "FIELD4": "1023",
+   "FIELD5": "cv",
+   "FIELD6": "0.89",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "1/20/17",
+   "FIELD2": "9",
+   "FIELD3": "2",
+   "FIELD4": "1030",
+   "FIELD5": "NW",
+   "FIELD6": "183.27",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "1/21/17",
+   "FIELD2": "23",
+   "FIELD3": "2",
+   "FIELD4": "1033",
+   "FIELD5": "cv",
+   "FIELD6": "0.89",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "1/22/17",
+   "FIELD2": "117",
+   "FIELD3": "2",
+   "FIELD4": "1024",
+   "FIELD5": "cv",
+   "FIELD6": "0.89",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "1/23/17",
+   "FIELD2": "240",
+   "FIELD3": "2",
+   "FIELD4": "1016",
+   "FIELD5": "cv",
+   "FIELD6": "0.89",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "1/24/17",
+   "FIELD2": "178",
+   "FIELD3": "5",
+   "FIELD4": "1018",
+   "FIELD5": "NW",
+   "FIELD6": "11.63",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "1/25/17",
+   "FIELD2": "15",
+   "FIELD3": "6",
+   "FIELD4": "1028",
+   "FIELD5": "NE",
+   "FIELD6": "14.75",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "1/26/17",
+   "FIELD2": "35",
+   "FIELD3": "2",
+   "FIELD4": "1031",
+   "FIELD5": "SE",
+   "FIELD6": "25.94",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "1/27/17",
+   "FIELD2": "136",
+   "FIELD3": "3",
+   "FIELD4": "1017",
+   "FIELD5": "NW",
+   "FIELD6": "22.81",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "1/28/17",
+   "FIELD2": "57",
+   "FIELD3": "3",
+   "FIELD4": "1030",
+   "FIELD5": "SE",
+   "FIELD6": "8.94",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "1/29/17",
+   "FIELD2": "132",
+   "FIELD3": "1",
+   "FIELD4": "1013",
+   "FIELD5": "NE",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "1/30/17",
+   "FIELD2": "16",
+   "FIELD3": "7",
+   "FIELD4": "1020",
+   "FIELD5": "NE",
+   "FIELD6": "8.94",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "1/31/17",
+   "FIELD2": "70",
+   "FIELD3": "2",
+   "FIELD4": "1019",
+   "FIELD5": "cv",
+   "FIELD6": "0.89",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "2/1/17",
+   "FIELD2": "152",
+   "FIELD3": "4",
+   "FIELD4": "1017",
+   "FIELD5": "cv",
+   "FIELD6": "0.89",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "2/2/17",
+   "FIELD2": "15",
+   "FIELD3": "10",
+   "FIELD4": "1014",
+   "FIELD5": "NW",
+   "FIELD6": "49.17",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "2/3/17",
+   "FIELD2": "6",
+   "FIELD3": "0",
+   "FIELD4": "1027",
+   "FIELD5": "NW",
+   "FIELD6": "71.09",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "2/4/17",
+   "FIELD2": "11",
+   "FIELD3": "0",
+   "FIELD4": "1031",
+   "FIELD5": "NW",
+   "FIELD6": "72.87",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "2/5/17",
+   "FIELD2": "116",
+   "FIELD3": "1",
+   "FIELD4": "1029",
+   "FIELD5": "cv",
+   "FIELD6": "3.56",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "2/6/17",
+   "FIELD2": "136",
+   "FIELD3": "1",
+   "FIELD4": "1030",
+   "FIELD5": "cv",
+   "FIELD6": "0.89",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "2/7/17",
+   "FIELD2": "94",
+   "FIELD3": "-4",
+   "FIELD4": "1028",
+   "FIELD5": "SE",
+   "FIELD6": "39.35",
+   "FIELD7": "7",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "2/8/17",
+   "FIELD2": "20",
+   "FIELD3": "1",
+   "FIELD4": "1027",
+   "FIELD5": "NW",
+   "FIELD6": "7.15",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "2/9/17",
+   "FIELD2": "14",
+   "FIELD3": "-3",
+   "FIELD4": "1037",
+   "FIELD5": "NW",
+   "FIELD6": "109.08",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "2/10/17",
+   "FIELD2": "18",
+   "FIELD3": "-3",
+   "FIELD4": "1036",
+   "FIELD5": "NW",
+   "FIELD6": "4.92",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "2/11/17",
+   "FIELD2": "90",
+   "FIELD3": "-2",
+   "FIELD4": "1028",
+   "FIELD5": "cv",
+   "FIELD6": "1.78",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "2/12/17",
+   "FIELD2": "36",
+   "FIELD3": "2",
+   "FIELD4": "1033",
+   "FIELD5": "NE",
+   "FIELD6": "11.18",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "2/13/17",
+   "FIELD2": "214",
+   "FIELD3": "-2",
+   "FIELD4": "1036",
+   "FIELD5": "SE",
+   "FIELD6": "64.82",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "2/14/17",
+   "FIELD2": "218",
+   "FIELD3": "0",
+   "FIELD4": "1027",
+   "FIELD5": "cv",
+   "FIELD6": "2.67",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "2/15/17",
+   "FIELD2": "279",
+   "FIELD3": "1",
+   "FIELD4": "1025",
+   "FIELD5": "SE",
+   "FIELD6": "3.58",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "2/16/17",
+   "FIELD2": "259",
+   "FIELD3": "6",
+   "FIELD4": "1030",
+   "FIELD5": "cv",
+   "FIELD6": "0.89",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "2/17/17",
+   "FIELD2": "88",
+   "FIELD3": "4",
+   "FIELD4": "1036",
+   "FIELD5": "SE",
+   "FIELD6": "10.28",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "2/18/17",
+   "FIELD2": "82",
+   "FIELD3": "1",
+   "FIELD4": "1033",
+   "FIELD5": "SE",
+   "FIELD6": "22.36",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "2/19/17",
+   "FIELD2": "38",
+   "FIELD3": "4",
+   "FIELD4": "1029",
+   "FIELD5": "NE",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "2/20/17",
+   "FIELD2": "221",
+   "FIELD3": "0",
+   "FIELD4": "1031",
+   "FIELD5": "SE",
+   "FIELD6": "10.73",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "2/21/17",
+   "FIELD2": "267",
+   "FIELD3": "2",
+   "FIELD4": "1028",
+   "FIELD5": "cv",
+   "FIELD6": "0.89",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "2/22/17",
+   "FIELD2": "323",
+   "FIELD3": "5",
+   "FIELD4": "1030",
+   "FIELD5": "SE",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "2/23/17",
+   "FIELD2": "270",
+   "FIELD3": "2",
+   "FIELD4": "1031",
+   "FIELD5": "cv",
+   "FIELD6": "1.78",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "2/24/17",
+   "FIELD2": "347",
+   "FIELD3": "6",
+   "FIELD4": "1028",
+   "FIELD5": "NW",
+   "FIELD6": "3.58",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "2/25/17",
+   "FIELD2": "397",
+   "FIELD3": "6",
+   "FIELD4": "1027",
+   "FIELD5": "cv",
+   "FIELD6": "2.67",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "2/26/17",
+   "FIELD2": "551",
+   "FIELD3": "7",
+   "FIELD4": "1021",
+   "FIELD5": "cv",
+   "FIELD6": "1.78",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "2/27/17",
+   "FIELD2": "8",
+   "FIELD3": "7",
+   "FIELD4": "1031",
+   "FIELD5": "NE",
+   "FIELD6": "4.02",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "2/28/17",
+   "FIELD2": "106",
+   "FIELD3": "3",
+   "FIELD4": "1027",
+   "FIELD5": "SE",
+   "FIELD6": "7.6",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "3/1/17",
+   "FIELD2": "14",
+   "FIELD3": "10",
+   "FIELD4": "1025",
+   "FIELD5": "NW",
+   "FIELD6": "36.65",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "3/2/17",
+   "FIELD2": "174",
+   "FIELD3": "6",
+   "FIELD4": "1023",
+   "FIELD5": "SE",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "3/3/17",
+   "FIELD2": "260",
+   "FIELD3": "3",
+   "FIELD4": "1022",
+   "FIELD5": "NE",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "3/4/17",
+   "FIELD2": "8",
+   "FIELD3": "8",
+   "FIELD4": "1027",
+   "FIELD5": "NW",
+   "FIELD6": "33.97",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "3/5/17",
+   "FIELD2": "27",
+   "FIELD3": "7",
+   "FIELD4": "1028",
+   "FIELD5": "SE",
+   "FIELD6": "7.15",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "3/6/17",
+   "FIELD2": "13",
+   "FIELD3": "6",
+   "FIELD4": "1031",
+   "FIELD5": "NW",
+   "FIELD6": "4.92",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "3/7/17",
+   "FIELD2": "26",
+   "FIELD3": "7",
+   "FIELD4": "1031",
+   "FIELD5": "NE",
+   "FIELD6": "8.94",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "3/8/17",
+   "FIELD2": "205",
+   "FIELD3": "6",
+   "FIELD4": "1023",
+   "FIELD5": "cv",
+   "FIELD6": "4.47",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "3/9/17",
+   "FIELD2": "145",
+   "FIELD3": "8",
+   "FIELD4": "1027",
+   "FIELD5": "cv",
+   "FIELD6": "4.02",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "3/10/17",
+   "FIELD2": "96",
+   "FIELD3": "5",
+   "FIELD4": "1025",
+   "FIELD5": "cv",
+   "FIELD6": "0.89",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "3/11/17",
+   "FIELD2": "272",
+   "FIELD3": "11",
+   "FIELD4": "1016",
+   "FIELD5": "cv",
+   "FIELD6": "0.89",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "3/12/17",
+   "FIELD2": "11",
+   "FIELD3": "10",
+   "FIELD4": "1027",
+   "FIELD5": "NW",
+   "FIELD6": "4.02",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "3/13/17",
+   "FIELD2": "15",
+   "FIELD3": "11",
+   "FIELD4": "1022",
+   "FIELD5": "cv",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "3/14/17",
+   "FIELD2": "12",
+   "FIELD3": "13",
+   "FIELD4": "1020",
+   "FIELD5": "cv",
+   "FIELD6": "3.13",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "3/15/17",
+   "FIELD2": "109",
+   "FIELD3": "15",
+   "FIELD4": "1011",
+   "FIELD5": "SE",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "3/16/17",
+   "FIELD2": "73",
+   "FIELD3": "16",
+   "FIELD4": "1018",
+   "FIELD5": "cv",
+   "FIELD6": "3.13",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "3/17/17",
+   "FIELD2": "36",
+   "FIELD3": "19",
+   "FIELD4": "1011",
+   "FIELD5": "NW",
+   "FIELD6": "27.27",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "3/18/17",
+   "FIELD2": "52",
+   "FIELD3": "15",
+   "FIELD4": "1024",
+   "FIELD5": "SE",
+   "FIELD6": "13.86",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "3/19/17",
+   "FIELD2": "79",
+   "FIELD3": "10",
+   "FIELD4": "1022",
+   "FIELD5": "NW",
+   "FIELD6": "6.26",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "3/20/17",
+   "FIELD2": "17",
+   "FIELD3": "16",
+   "FIELD4": "1027",
+   "FIELD5": "NW",
+   "FIELD6": "90.74",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "3/21/17",
+   "FIELD2": "20",
+   "FIELD3": "20",
+   "FIELD4": "1020",
+   "FIELD5": "SE",
+   "FIELD6": "6.26",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "3/22/17",
+   "FIELD2": "37",
+   "FIELD3": "22",
+   "FIELD4": "1017",
+   "FIELD5": "NE",
+   "FIELD6": "4.92",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "3/23/17",
+   "FIELD2": "128",
+   "FIELD3": "18",
+   "FIELD4": "1025",
+   "FIELD5": "SE",
+   "FIELD6": "4.92",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "3/24/17",
+   "FIELD2": "270",
+   "FIELD3": "16",
+   "FIELD4": "1014",
+   "FIELD5": "cv",
+   "FIELD6": "4.46",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "3/25/17",
+   "FIELD2": "226",
+   "FIELD3": "20",
+   "FIELD4": "1011",
+   "FIELD5": "SE",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "3/26/17",
+   "FIELD2": "331",
+   "FIELD3": "19",
+   "FIELD4": "1011",
+   "FIELD5": "SE",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "3/27/17",
+   "FIELD2": "444",
+   "FIELD3": "15",
+   "FIELD4": "1014",
+   "FIELD5": "SE",
+   "FIELD6": "15.19",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "3/28/17",
+   "FIELD2": "100",
+   "FIELD3": "19",
+   "FIELD4": "1008",
+   "FIELD5": "NE",
+   "FIELD6": "4.02",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "3/29/17",
+   "FIELD2": "23",
+   "FIELD3": "21",
+   "FIELD4": "1014",
+   "FIELD5": "NW",
+   "FIELD6": "4.92",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "3/30/17",
+   "FIELD2": "21",
+   "FIELD3": "24",
+   "FIELD4": "1016",
+   "FIELD5": "cv",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "3/31/17",
+   "FIELD2": "254",
+   "FIELD3": "18",
+   "FIELD4": "1016",
+   "FIELD5": "SE",
+   "FIELD6": "4.92",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "4/1/17",
+   "FIELD2": "121",
+   "FIELD3": "21",
+   "FIELD4": "1013",
+   "FIELD5": "cv",
+   "FIELD6": "3.57",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "4/2/17",
+   "FIELD2": "84",
+   "FIELD3": "23",
+   "FIELD4": "1015",
+   "FIELD5": "NE",
+   "FIELD6": "21.02",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "4/3/17",
+   "FIELD2": "14",
+   "FIELD3": "20",
+   "FIELD4": "1023",
+   "FIELD5": "NW",
+   "FIELD6": "50.96",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "4/4/17",
+   "FIELD2": "41",
+   "FIELD3": "20",
+   "FIELD4": "1011",
+   "FIELD5": "SE",
+   "FIELD6": "3.58",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "4/5/17",
+   "FIELD2": "8",
+   "FIELD3": "16",
+   "FIELD4": "1023",
+   "FIELD5": "NW",
+   "FIELD6": "21.47",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "4/6/17",
+   "FIELD2": "39",
+   "FIELD3": "23",
+   "FIELD4": "1018",
+   "FIELD5": "SE",
+   "FIELD6": "4.02",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "4/7/17",
+   "FIELD2": "110",
+   "FIELD3": "21",
+   "FIELD4": "1013",
+   "FIELD5": "SE",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "4/8/17",
+   "FIELD2": "206",
+   "FIELD3": "22",
+   "FIELD4": "1014",
+   "FIELD5": "cv",
+   "FIELD6": "3.13",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "4/9/17",
+   "FIELD2": "62",
+   "FIELD3": "28",
+   "FIELD4": "1008",
+   "FIELD5": "NW",
+   "FIELD6": "4.92",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "4/10/17",
+   "FIELD2": "71",
+   "FIELD3": "17",
+   "FIELD4": "1023",
+   "FIELD5": "SE",
+   "FIELD6": "22.35",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "4/11/17",
+   "FIELD2": "40",
+   "FIELD3": "16",
+   "FIELD4": "1020",
+   "FIELD5": "SE",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "4/12/17",
+   "FIELD2": "114",
+   "FIELD3": "20",
+   "FIELD4": "1016",
+   "FIELD5": "SE",
+   "FIELD6": "3.13",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "4/13/17",
+   "FIELD2": "175",
+   "FIELD3": "21",
+   "FIELD4": "1018",
+   "FIELD5": "SE",
+   "FIELD6": "5.81",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "4/14/17",
+   "FIELD2": "280",
+   "FIELD3": "22",
+   "FIELD4": "1017",
+   "FIELD5": "SE",
+   "FIELD6": "3.58",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "4/15/17",
+   "FIELD2": "93",
+   "FIELD3": "22",
+   "FIELD4": "1020",
+   "FIELD5": "SE",
+   "FIELD6": "21.9",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "4/16/17",
+   "FIELD2": "51",
+   "FIELD3": "19",
+   "FIELD4": "1014",
+   "FIELD5": "cv",
+   "FIELD6": "0.89",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "4/17/17",
+   "FIELD2": "106",
+   "FIELD3": "13",
+   "FIELD4": "1014",
+   "FIELD5": "NW",
+   "FIELD6": "9.39",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "4/18/17",
+   "FIELD2": "170",
+   "FIELD3": "20",
+   "FIELD4": "1020",
+   "FIELD5": "SE",
+   "FIELD6": "3.13",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "4/19/17",
+   "FIELD2": "44",
+   "FIELD3": "14",
+   "FIELD4": "1022",
+   "FIELD5": "SE",
+   "FIELD6": "16.99",
+   "FIELD7": "0",
+   "FIELD8": "3"
+ },
+ {
+   "FIELD1": "4/20/17",
+   "FIELD2": "23",
+   "FIELD3": "19",
+   "FIELD4": "1017",
+   "FIELD5": "NW",
+   "FIELD6": "21.91",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "4/21/17",
+   "FIELD2": "23",
+   "FIELD3": "24",
+   "FIELD4": "1017",
+   "FIELD5": "SE",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "4/22/17",
+   "FIELD2": "56",
+   "FIELD3": "26",
+   "FIELD4": "1014",
+   "FIELD5": "cv",
+   "FIELD6": "3.58",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "4/23/17",
+   "FIELD2": "174",
+   "FIELD3": "23",
+   "FIELD4": "1010",
+   "FIELD5": "SE",
+   "FIELD6": "89.41",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "4/24/17",
+   "FIELD2": "121",
+   "FIELD3": "21",
+   "FIELD4": "1015",
+   "FIELD5": "cv",
+   "FIELD6": "2.68",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "4/25/17",
+   "FIELD2": "169",
+   "FIELD3": "24",
+   "FIELD4": "1017",
+   "FIELD5": "cv",
+   "FIELD6": "3.57",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "4/26/17",
+   "FIELD2": "42",
+   "FIELD3": "20",
+   "FIELD4": "1021",
+   "FIELD5": "NW",
+   "FIELD6": "6.26",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "4/27/17",
+   "FIELD2": "20",
+   "FIELD3": "23",
+   "FIELD4": "1021",
+   "FIELD5": "NE",
+   "FIELD6": "17.88",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "4/28/17",
+   "FIELD2": "68",
+   "FIELD3": "24",
+   "FIELD4": "1019",
+   "FIELD5": "SE",
+   "FIELD6": "3.13",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "4/29/17",
+   "FIELD2": "133",
+   "FIELD3": "23",
+   "FIELD4": "1014",
+   "FIELD5": "cv",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "4/30/17",
+   "FIELD2": "135",
+   "FIELD3": "26",
+   "FIELD4": "1009",
+   "FIELD5": "cv",
+   "FIELD6": "3.13",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "5/1/17",
+   "FIELD2": "144",
+   "FIELD3": "26",
+   "FIELD4": "1007",
+   "FIELD5": "SE",
+   "FIELD6": "9.84",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "5/2/17",
+   "FIELD2": "50",
+   "FIELD3": "21",
+   "FIELD4": "1017",
+   "FIELD5": "NW",
+   "FIELD6": "180.59",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "5/3/17",
+   "FIELD2": "121",
+   "FIELD3": "24",
+   "FIELD4": "1007",
+   "FIELD5": "SE",
+   "FIELD6": "16.1",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "5/4/17",
+   "FIELD2": "46",
+   "FIELD3": "19",
+   "FIELD4": "1016",
+   "FIELD5": "NW",
+   "FIELD6": "230.66",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "5/5/17",
+   "FIELD2": "31",
+   "FIELD3": "18",
+   "FIELD4": "1018",
+   "FIELD5": "cv",
+   "FIELD6": "3.58",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "5/6/17",
+   "FIELD2": "103",
+   "FIELD3": "19",
+   "FIELD4": "1008",
+   "FIELD5": "SE",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "5/7/17",
+   "FIELD2": "84",
+   "FIELD3": "24",
+   "FIELD4": "1007",
+   "FIELD5": "NW",
+   "FIELD6": "25.03",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "5/8/17",
+   "FIELD2": "61",
+   "FIELD3": "22",
+   "FIELD4": "1014",
+   "FIELD5": "SE",
+   "FIELD6": "4.02",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "5/9/17",
+   "FIELD2": "69",
+   "FIELD3": "17",
+   "FIELD4": "1016",
+   "FIELD5": "SE",
+   "FIELD6": "22.8",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "5/10/17",
+   "FIELD2": "62",
+   "FIELD3": "18",
+   "FIELD4": "1017",
+   "FIELD5": "NE",
+   "FIELD6": "4.02",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "5/11/17",
+   "FIELD2": "22",
+   "FIELD3": "12",
+   "FIELD4": "1006",
+   "FIELD5": "NW",
+   "FIELD6": "9.84",
+   "FIELD7": "0",
+   "FIELD8": "15"
+ },
+ {
+   "FIELD1": "5/12/17",
+   "FIELD2": "23",
+   "FIELD3": "28",
+   "FIELD4": "1001",
+   "FIELD5": "NW",
+   "FIELD6": "12.52",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "5/13/17",
+   "FIELD2": "86",
+   "FIELD3": "26",
+   "FIELD4": "1000",
+   "FIELD5": "NE",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "5/14/17",
+   "FIELD2": "14",
+   "FIELD3": "20",
+   "FIELD4": "1007",
+   "FIELD5": "NW",
+   "FIELD6": "203.4",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "5/15/17",
+   "FIELD2": "69",
+   "FIELD3": "27",
+   "FIELD4": "1000",
+   "FIELD5": "SE",
+   "FIELD6": "3.13",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "5/16/17",
+   "FIELD2": "56",
+   "FIELD3": "27",
+   "FIELD4": "1008",
+   "FIELD5": "SE",
+   "FIELD6": "4.02",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "5/17/17",
+   "FIELD2": "95",
+   "FIELD3": "26",
+   "FIELD4": "1013",
+   "FIELD5": "SE",
+   "FIELD6": "4.02",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "5/18/17",
+   "FIELD2": "132",
+   "FIELD3": "27",
+   "FIELD4": "1009",
+   "FIELD5": "cv",
+   "FIELD6": "2.67",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "5/19/17",
+   "FIELD2": "161",
+   "FIELD3": "24",
+   "FIELD4": "1005",
+   "FIELD5": "SE",
+   "FIELD6": "8.05",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "5/20/17",
+   "FIELD2": "NA",
+   "FIELD3": "29",
+   "FIELD4": "1005",
+   "FIELD5": "SE",
+   "FIELD6": "3.13",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "5/21/17",
+   "FIELD2": "81",
+   "FIELD3": "27",
+   "FIELD4": "1006",
+   "FIELD5": "cv",
+   "FIELD6": "4.47",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "5/22/17",
+   "FIELD2": "182",
+   "FIELD3": "31",
+   "FIELD4": "1007",
+   "FIELD5": "SE",
+   "FIELD6": "9.84",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "5/23/17",
+   "FIELD2": "85",
+   "FIELD3": "34",
+   "FIELD4": "1010",
+   "FIELD5": "SE",
+   "FIELD6": "22.35",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "5/24/17",
+   "FIELD2": "95",
+   "FIELD3": "20",
+   "FIELD4": "1008",
+   "FIELD5": "SE",
+   "FIELD6": "24.6",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "5/25/17",
+   "FIELD2": "51",
+   "FIELD3": "28",
+   "FIELD4": "1006",
+   "FIELD5": "NW",
+   "FIELD6": "38.46",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "5/26/17",
+   "FIELD2": "19",
+   "FIELD3": "33",
+   "FIELD4": "999",
+   "FIELD5": "SE",
+   "FIELD6": "18.77",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "5/27/17",
+   "FIELD2": "13",
+   "FIELD3": "32",
+   "FIELD4": "995",
+   "FIELD5": "NW",
+   "FIELD6": "67.49",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "5/28/17",
+   "FIELD2": "15",
+   "FIELD3": "35",
+   "FIELD4": "1001",
+   "FIELD5": "SE",
+   "FIELD6": "4.02",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "5/29/17",
+   "FIELD2": "41",
+   "FIELD3": "37",
+   "FIELD4": "998",
+   "FIELD5": "cv",
+   "FIELD6": "2.68",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "5/30/17",
+   "FIELD2": "100",
+   "FIELD3": "33",
+   "FIELD4": "1007",
+   "FIELD5": "SE",
+   "FIELD6": "14.75",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "5/31/17",
+   "FIELD2": "125",
+   "FIELD3": "32",
+   "FIELD4": "1007",
+   "FIELD5": "cv",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "6/1/17",
+   "FIELD2": "29",
+   "FIELD3": "31",
+   "FIELD4": "1007",
+   "FIELD5": "NE",
+   "FIELD6": "3.13",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "6/2/17",
+   "FIELD2": "20",
+   "FIELD3": "26",
+   "FIELD4": "1012",
+   "FIELD5": "cv",
+   "FIELD6": "2.68",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "6/3/17",
+   "FIELD2": "25",
+   "FIELD3": "30",
+   "FIELD4": "1008",
+   "FIELD5": "SE",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "6/4/17",
+   "FIELD2": "48",
+   "FIELD3": "29",
+   "FIELD4": "1006",
+   "FIELD5": "cv",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "6/5/17",
+   "FIELD2": "43",
+   "FIELD3": "31",
+   "FIELD4": "1005",
+   "FIELD5": "NW",
+   "FIELD6": "3.13",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "6/6/17",
+   "FIELD2": "88",
+   "FIELD3": "22",
+   "FIELD4": "1005",
+   "FIELD5": "NW",
+   "FIELD6": "11.18",
+   "FIELD7": "0",
+   "FIELD8": "1"
+ },
+ {
+   "FIELD1": "6/7/17",
+   "FIELD2": "3",
+   "FIELD3": "27",
+   "FIELD4": "1005",
+   "FIELD5": "NW",
+   "FIELD6": "38.45",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "6/8/17",
+   "FIELD2": "48",
+   "FIELD3": "28",
+   "FIELD4": "1001",
+   "FIELD5": "SE",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "6/9/17",
+   "FIELD2": "32",
+   "FIELD3": "28",
+   "FIELD4": "1005",
+   "FIELD5": "NW",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "6/10/17",
+   "FIELD2": "80",
+   "FIELD3": "26",
+   "FIELD4": "1008",
+   "FIELD5": "SE",
+   "FIELD6": "5.81",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "6/11/17",
+   "FIELD2": "16",
+   "FIELD3": "27",
+   "FIELD4": "1011",
+   "FIELD5": "NE",
+   "FIELD6": "4.92",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "6/12/17",
+   "FIELD2": "18",
+   "FIELD3": "33",
+   "FIELD4": "1006",
+   "FIELD5": "NW",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "6/13/17",
+   "FIELD2": "25",
+   "FIELD3": "31",
+   "FIELD4": "1007",
+   "FIELD5": "SE",
+   "FIELD6": "3.13",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "6/14/17",
+   "FIELD2": "30",
+   "FIELD3": "29",
+   "FIELD4": "1007",
+   "FIELD5": "cv",
+   "FIELD6": "2.68",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "6/15/17",
+   "FIELD2": "89",
+   "FIELD3": "32",
+   "FIELD4": "1004",
+   "FIELD5": "SE",
+   "FIELD6": "6.71",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "6/16/17",
+   "FIELD2": "191",
+   "FIELD3": "26",
+   "FIELD4": "1003",
+   "FIELD5": "SE",
+   "FIELD6": "4.92",
+   "FIELD7": "0",
+   "FIELD8": "1"
+ },
+ {
+   "FIELD1": "6/17/17",
+   "FIELD2": "49",
+   "FIELD3": "24",
+   "FIELD4": "1002",
+   "FIELD5": "SE",
+   "FIELD6": "3.58",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "6/18/17",
+   "FIELD2": "11",
+   "FIELD3": "29",
+   "FIELD4": "1003",
+   "FIELD5": "cv",
+   "FIELD6": "0.89",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "6/19/17",
+   "FIELD2": "181",
+   "FIELD3": "26",
+   "FIELD4": "1005",
+   "FIELD5": "SE",
+   "FIELD6": "19.21",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "6/20/17",
+   "FIELD2": "19",
+   "FIELD3": "27",
+   "FIELD4": "1007",
+   "FIELD5": "NW",
+   "FIELD6": "16.99",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "6/21/17",
+   "FIELD2": "62",
+   "FIELD3": "26",
+   "FIELD4": "1009",
+   "FIELD5": "cv",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "6/22/17",
+   "FIELD2": "40",
+   "FIELD3": "27",
+   "FIELD4": "1009",
+   "FIELD5": "cv",
+   "FIELD6": "4.46",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "6/23/17",
+   "FIELD2": "16",
+   "FIELD3": "30",
+   "FIELD4": "1008",
+   "FIELD5": "NW",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "6/24/17",
+   "FIELD2": "47",
+   "FIELD3": "30",
+   "FIELD4": "1004",
+   "FIELD5": "SE",
+   "FIELD6": "4.02",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "6/25/17",
+   "FIELD2": "85",
+   "FIELD3": "27",
+   "FIELD4": "1004",
+   "FIELD5": "SE",
+   "FIELD6": "14.76",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "6/26/17",
+   "FIELD2": "87",
+   "FIELD3": "31",
+   "FIELD4": "1003",
+   "FIELD5": "cv",
+   "FIELD6": "7.14",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "6/27/17",
+   "FIELD2": "11",
+   "FIELD3": "32",
+   "FIELD4": "1007",
+   "FIELD5": "cv",
+   "FIELD6": "4.02",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "6/28/17",
+   "FIELD2": "14",
+   "FIELD3": "36",
+   "FIELD4": "1005",
+   "FIELD5": "NW",
+   "FIELD6": "45.59",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "6/29/17",
+   "FIELD2": "60",
+   "FIELD3": "33",
+   "FIELD4": "1006",
+   "FIELD5": "SE",
+   "FIELD6": "3.13",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "6/30/17",
+   "FIELD2": "93",
+   "FIELD3": "33",
+   "FIELD4": "1006",
+   "FIELD5": "cv",
+   "FIELD6": "7.15",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "7/1/17",
+   "FIELD2": "102",
+   "FIELD3": "31",
+   "FIELD4": "1005",
+   "FIELD5": "SE",
+   "FIELD6": "12.97",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "7/2/17",
+   "FIELD2": "56",
+   "FIELD3": "24",
+   "FIELD4": "1003",
+   "FIELD5": "SE",
+   "FIELD6": "3.58",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "7/3/17",
+   "FIELD2": "256",
+   "FIELD3": "28",
+   "FIELD4": "1001",
+   "FIELD5": "cv",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "7/4/17",
+   "FIELD2": "152",
+   "FIELD3": "32",
+   "FIELD4": "1005",
+   "FIELD5": "cv",
+   "FIELD6": "3.57",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "7/5/17",
+   "FIELD2": "96",
+   "FIELD3": "29",
+   "FIELD4": "1007",
+   "FIELD5": "SE",
+   "FIELD6": "12.08",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "7/6/17",
+   "FIELD2": "180",
+   "FIELD3": "29",
+   "FIELD4": "1005",
+   "FIELD5": "SE",
+   "FIELD6": "50.08",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "7/7/17",
+   "FIELD2": "132",
+   "FIELD3": "30",
+   "FIELD4": "1003",
+   "FIELD5": "SE",
+   "FIELD6": "19.68",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "7/8/17",
+   "FIELD2": "26",
+   "FIELD3": "34",
+   "FIELD4": "1003",
+   "FIELD5": "NW",
+   "FIELD6": "5.81",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "7/9/17",
+   "FIELD2": "14",
+   "FIELD3": "30",
+   "FIELD4": "1005",
+   "FIELD5": "NW",
+   "FIELD6": "3.13",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "7/10/17",
+   "FIELD2": "15",
+   "FIELD3": "35",
+   "FIELD4": "1000",
+   "FIELD5": "SE",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "7/11/17",
+   "FIELD2": "12",
+   "FIELD3": "34",
+   "FIELD4": "1000",
+   "FIELD5": "NE",
+   "FIELD6": "3.13",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "7/12/17",
+   "FIELD2": "6",
+   "FIELD3": "32",
+   "FIELD4": "1003",
+   "FIELD5": "NE",
+   "FIELD6": "42",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "7/13/17",
+   "FIELD2": "10",
+   "FIELD3": "34",
+   "FIELD4": "1002",
+   "FIELD5": "NW",
+   "FIELD6": "9.39",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "7/14/17",
+   "FIELD2": "21",
+   "FIELD3": "34",
+   "FIELD4": "1002",
+   "FIELD5": "cv",
+   "FIELD6": "3.58",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "7/15/17",
+   "FIELD2": "50",
+   "FIELD3": "31",
+   "FIELD4": "1004",
+   "FIELD5": "SE",
+   "FIELD6": "10.28",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "7/16/17",
+   "FIELD2": "159",
+   "FIELD3": "27",
+   "FIELD4": "1005",
+   "FIELD5": "cv",
+   "FIELD6": "0.89",
+   "FIELD7": "0",
+   "FIELD8": "2"
+ },
+ {
+   "FIELD1": "7/17/17",
+   "FIELD2": "129",
+   "FIELD3": "28",
+   "FIELD4": "1006",
+   "FIELD5": "SE",
+   "FIELD6": "5.37",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "7/18/17",
+   "FIELD2": "125",
+   "FIELD3": "31",
+   "FIELD4": "1007",
+   "FIELD5": "cv",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "7/19/17",
+   "FIELD2": "66",
+   "FIELD3": "36",
+   "FIELD4": "1009",
+   "FIELD5": "SE",
+   "FIELD6": "10.28",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "7/20/17",
+   "FIELD2": "55",
+   "FIELD3": "34",
+   "FIELD4": "1005",
+   "FIELD5": "SE",
+   "FIELD6": "21.01",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "7/21/17",
+   "FIELD2": "12",
+   "FIELD3": "32",
+   "FIELD4": "1002",
+   "FIELD5": "NE",
+   "FIELD6": "3.13",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "7/22/17",
+   "FIELD2": "NA",
+   "FIELD3": "29",
+   "FIELD4": "1007",
+   "FIELD5": "NW",
+   "FIELD6": "3.13",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "7/23/17",
+   "FIELD2": "13",
+   "FIELD3": "30",
+   "FIELD4": "1004",
+   "FIELD5": "NW",
+   "FIELD6": "12.07",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "7/24/17",
+   "FIELD2": "89",
+   "FIELD3": "28",
+   "FIELD4": "1007",
+   "FIELD5": "NW",
+   "FIELD6": "3.13",
+   "FIELD7": "0",
+   "FIELD8": "3"
+ },
+ {
+   "FIELD1": "7/25/17",
+   "FIELD2": "31",
+   "FIELD3": "32",
+   "FIELD4": "1005",
+   "FIELD5": "cv",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "7/26/17",
+   "FIELD2": "112",
+   "FIELD3": "32",
+   "FIELD4": "1009",
+   "FIELD5": "cv",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "7/27/17",
+   "FIELD2": "133",
+   "FIELD3": "34",
+   "FIELD4": "1009",
+   "FIELD5": "SE",
+   "FIELD6": "3.13",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "7/28/17",
+   "FIELD2": "110",
+   "FIELD3": "34",
+   "FIELD4": "1004",
+   "FIELD5": "SE",
+   "FIELD6": "4.02",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "7/29/17",
+   "FIELD2": "92",
+   "FIELD3": "32",
+   "FIELD4": "1004",
+   "FIELD5": "SE",
+   "FIELD6": "104.6",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "7/30/17",
+   "FIELD2": "148",
+   "FIELD3": "26",
+   "FIELD4": "1007",
+   "FIELD5": "SE",
+   "FIELD6": "6.71",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "7/31/17",
+   "FIELD2": "180",
+   "FIELD3": "29",
+   "FIELD4": "1007",
+   "FIELD5": "SE",
+   "FIELD6": "13.87",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "8/1/17",
+   "FIELD2": "123",
+   "FIELD3": "31",
+   "FIELD4": "1007",
+   "FIELD5": "cv",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "8/2/17",
+   "FIELD2": "101",
+   "FIELD3": "32",
+   "FIELD4": "1003",
+   "FIELD5": "cv",
+   "FIELD6": "3.56",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "8/3/17",
+   "FIELD2": "82",
+   "FIELD3": "34",
+   "FIELD4": "1001",
+   "FIELD5": "cv",
+   "FIELD6": "2.23",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "8/4/17",
+   "FIELD2": "5",
+   "FIELD3": "22",
+   "FIELD4": "1005",
+   "FIELD5": "NE",
+   "FIELD6": "30.4",
+   "FIELD7": "0",
+   "FIELD8": "1"
+ },
+ {
+   "FIELD1": "8/5/17",
+   "FIELD2": "31",
+   "FIELD3": "29",
+   "FIELD4": "1007",
+   "FIELD5": "cv",
+   "FIELD6": "2.67",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "8/6/17",
+   "FIELD2": "8",
+   "FIELD3": "33",
+   "FIELD4": "1007",
+   "FIELD5": "NE",
+   "FIELD6": "8.94",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "8/7/17",
+   "FIELD2": "48",
+   "FIELD3": "31",
+   "FIELD4": "1009",
+   "FIELD5": "SE",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "8/8/17",
+   "FIELD2": "72",
+   "FIELD3": "31",
+   "FIELD4": "1009",
+   "FIELD5": "SE",
+   "FIELD6": "6.71",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "8/9/17",
+   "FIELD2": "72",
+   "FIELD3": "30",
+   "FIELD4": "1006",
+   "FIELD5": "SE",
+   "FIELD6": "3.13",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "8/10/17",
+   "FIELD2": "37",
+   "FIELD3": "30",
+   "FIELD4": "1003",
+   "FIELD5": "NW",
+   "FIELD6": "3.13",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "8/11/17",
+   "FIELD2": "6",
+   "FIELD3": "32",
+   "FIELD4": "1005",
+   "FIELD5": "NE",
+   "FIELD6": "4.02",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "8/12/17",
+   "FIELD2": "19",
+   "FIELD3": "32",
+   "FIELD4": "1006",
+   "FIELD5": "SE",
+   "FIELD6": "6.26",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "8/13/17",
+   "FIELD2": "38",
+   "FIELD3": "20",
+   "FIELD4": "1009",
+   "FIELD5": "NW",
+   "FIELD6": "4.92",
+   "FIELD7": "0",
+   "FIELD8": "9"
+ },
+ {
+   "FIELD1": "8/14/17",
+   "FIELD2": "28",
+   "FIELD3": "27",
+   "FIELD4": "1008",
+   "FIELD5": "SE",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "8/15/17",
+   "FIELD2": "26",
+   "FIELD3": "31",
+   "FIELD4": "1007",
+   "FIELD5": "cv",
+   "FIELD6": "0.89",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "8/16/17",
+   "FIELD2": "48",
+   "FIELD3": "31",
+   "FIELD4": "1008",
+   "FIELD5": "cv",
+   "FIELD6": "2.67",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "8/17/17",
+   "FIELD2": "37",
+   "FIELD3": "30",
+   "FIELD4": "1010",
+   "FIELD5": "cv",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "8/18/17",
+   "FIELD2": "59",
+   "FIELD3": "28",
+   "FIELD4": "1012",
+   "FIELD5": "SE",
+   "FIELD6": "3.58",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "8/19/17",
+   "FIELD2": "78",
+   "FIELD3": "30",
+   "FIELD4": "1012",
+   "FIELD5": "cv",
+   "FIELD6": "3.57",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "8/20/17",
+   "FIELD2": "81",
+   "FIELD3": "32",
+   "FIELD4": "1009",
+   "FIELD5": "SE",
+   "FIELD6": "4.92",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "8/21/17",
+   "FIELD2": "138",
+   "FIELD3": "31",
+   "FIELD4": "1006",
+   "FIELD5": "SE",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "8/22/17",
+   "FIELD2": "42",
+   "FIELD3": "27",
+   "FIELD4": "1008",
+   "FIELD5": "cv",
+   "FIELD6": "3.56",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "8/23/17",
+   "FIELD2": "116",
+   "FIELD3": "30",
+   "FIELD4": "1005",
+   "FIELD5": "SE",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "8/24/17",
+   "FIELD2": "4",
+   "FIELD3": "30",
+   "FIELD4": "1007",
+   "FIELD5": "cv",
+   "FIELD6": "0.89",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "8/25/17",
+   "FIELD2": "7",
+   "FIELD3": "31",
+   "FIELD4": "1011",
+   "FIELD5": "NW",
+   "FIELD6": "4.02",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "8/26/17",
+   "FIELD2": "13",
+   "FIELD3": "33",
+   "FIELD4": "1013",
+   "FIELD5": "cv",
+   "FIELD6": "1.78",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "8/27/17",
+   "FIELD2": "38",
+   "FIELD3": "33",
+   "FIELD4": "1013",
+   "FIELD5": "SE",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "8/28/17",
+   "FIELD2": "66",
+   "FIELD3": "28",
+   "FIELD4": "1015",
+   "FIELD5": "NW",
+   "FIELD6": "7.15",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "8/29/17",
+   "FIELD2": "49",
+   "FIELD3": "26",
+   "FIELD4": "1016",
+   "FIELD5": "cv",
+   "FIELD6": "2.68",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "8/30/17",
+   "FIELD2": "196",
+   "FIELD3": "25",
+   "FIELD4": "1015",
+   "FIELD5": "NE",
+   "FIELD6": "3.58",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "8/31/17",
+   "FIELD2": "58",
+   "FIELD3": "25",
+   "FIELD4": "1013",
+   "FIELD5": "cv",
+   "FIELD6": "0.89",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "9/1/17",
+   "FIELD2": "144",
+   "FIELD3": "25",
+   "FIELD4": "1013",
+   "FIELD5": "SE",
+   "FIELD6": "8.95",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "9/2/17",
+   "FIELD2": "39",
+   "FIELD3": "21",
+   "FIELD4": "1010",
+   "FIELD5": "cv",
+   "FIELD6": "0.89",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "9/3/17",
+   "FIELD2": "8",
+   "FIELD3": "28",
+   "FIELD4": "1010",
+   "FIELD5": "cv",
+   "FIELD6": "2.68",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "9/4/17",
+   "FIELD2": "31",
+   "FIELD3": "31",
+   "FIELD4": "1005",
+   "FIELD5": "cv",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "9/5/17",
+   "FIELD2": "109",
+   "FIELD3": "27",
+   "FIELD4": "1011",
+   "FIELD5": "SE",
+   "FIELD6": "9.39",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "9/6/17",
+   "FIELD2": "138",
+   "FIELD3": "27",
+   "FIELD4": "1012",
+   "FIELD5": "SE",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "9/7/17",
+   "FIELD2": "176",
+   "FIELD3": "27",
+   "FIELD4": "1008",
+   "FIELD5": "SE",
+   "FIELD6": "5.37",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "9/8/17",
+   "FIELD2": "3",
+   "FIELD3": "29",
+   "FIELD4": "1011",
+   "FIELD5": "NW",
+   "FIELD6": "7.15",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "9/9/17",
+   "FIELD2": "31",
+   "FIELD3": "27",
+   "FIELD4": "1010",
+   "FIELD5": "SE",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "9/10/17",
+   "FIELD2": "74",
+   "FIELD3": "27",
+   "FIELD4": "1014",
+   "FIELD5": "SE",
+   "FIELD6": "3.58",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "9/11/17",
+   "FIELD2": "93",
+   "FIELD3": "25",
+   "FIELD4": "1014",
+   "FIELD5": "cv",
+   "FIELD6": "0.89",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "9/12/17",
+   "FIELD2": "68",
+   "FIELD3": "23",
+   "FIELD4": "1015",
+   "FIELD5": "cv",
+   "FIELD6": "2.68",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "9/13/17",
+   "FIELD2": "50",
+   "FIELD3": "25",
+   "FIELD4": "1015",
+   "FIELD5": "SE",
+   "FIELD6": "9.84",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "9/14/17",
+   "FIELD2": "11",
+   "FIELD3": "22",
+   "FIELD4": "1019",
+   "FIELD5": "NE",
+   "FIELD6": "17.88",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "9/15/17",
+   "FIELD2": "4",
+   "FIELD3": "26",
+   "FIELD4": "1019",
+   "FIELD5": "NW",
+   "FIELD6": "11.17",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "9/16/17",
+   "FIELD2": "22",
+   "FIELD3": "20",
+   "FIELD4": "1018",
+   "FIELD5": "SE",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "9/17/17",
+   "FIELD2": "44",
+   "FIELD3": "20",
+   "FIELD4": "1021",
+   "FIELD5": "cv",
+   "FIELD6": "1.78",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "9/18/17",
+   "FIELD2": "67",
+   "FIELD3": "26",
+   "FIELD4": "1020",
+   "FIELD5": "NW",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "9/19/17",
+   "FIELD2": "118",
+   "FIELD3": "24",
+   "FIELD4": "1012",
+   "FIELD5": "cv",
+   "FIELD6": "4.92",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "9/20/17",
+   "FIELD2": "115",
+   "FIELD3": "24",
+   "FIELD4": "1010",
+   "FIELD5": "cv",
+   "FIELD6": "3.57",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "9/21/17",
+   "FIELD2": "67",
+   "FIELD3": "23",
+   "FIELD4": "1018",
+   "FIELD5": "SE",
+   "FIELD6": "3.58",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "9/22/17",
+   "FIELD2": "127",
+   "FIELD3": "21",
+   "FIELD4": "1019",
+   "FIELD5": "NE",
+   "FIELD6": "5.37",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "9/23/17",
+   "FIELD2": "36",
+   "FIELD3": "18",
+   "FIELD4": "1018",
+   "FIELD5": "NW",
+   "FIELD6": "4.02",
+   "FIELD7": "0",
+   "FIELD8": "14"
+ },
+ {
+   "FIELD1": "9/24/17",
+   "FIELD2": "14",
+   "FIELD3": "24",
+   "FIELD4": "1016",
+   "FIELD5": "cv",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "9/25/17",
+   "FIELD2": "148",
+   "FIELD3": "20",
+   "FIELD4": "1018",
+   "FIELD5": "SE",
+   "FIELD6": "3.58",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "9/26/17",
+   "FIELD2": "123",
+   "FIELD3": "21",
+   "FIELD4": "1010",
+   "FIELD5": "SE",
+   "FIELD6": "21.02",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "9/27/17",
+   "FIELD2": "10",
+   "FIELD3": "23",
+   "FIELD4": "1017",
+   "FIELD5": "cv",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "9/28/17",
+   "FIELD2": "98",
+   "FIELD3": "21",
+   "FIELD4": "1017",
+   "FIELD5": "SE",
+   "FIELD6": "3.58",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "9/29/17",
+   "FIELD2": "17",
+   "FIELD3": "23",
+   "FIELD4": "1019",
+   "FIELD5": "NE",
+   "FIELD6": "21.45",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "9/30/17",
+   "FIELD2": "22",
+   "FIELD3": "14",
+   "FIELD4": "1027",
+   "FIELD5": "SE",
+   "FIELD6": "3.58",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "10/1/17",
+   "FIELD2": "91",
+   "FIELD3": "14",
+   "FIELD4": "1016",
+   "FIELD5": "NE",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "10/2/17",
+   "FIELD2": "64",
+   "FIELD3": "20",
+   "FIELD4": "1012",
+   "FIELD5": "NW",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "10/3/17",
+   "FIELD2": "84",
+   "FIELD3": "16",
+   "FIELD4": "1018",
+   "FIELD5": "cv",
+   "FIELD6": "1.78",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "10/4/17",
+   "FIELD2": "78",
+   "FIELD3": "15",
+   "FIELD4": "1019",
+   "FIELD5": "SE",
+   "FIELD6": "0.89",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "10/5/17",
+   "FIELD2": "8",
+   "FIELD3": "22",
+   "FIELD4": "1024",
+   "FIELD5": "NW",
+   "FIELD6": "29.95",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "10/6/17",
+   "FIELD2": "18",
+   "FIELD3": "20",
+   "FIELD4": "1025",
+   "FIELD5": "cv",
+   "FIELD6": "1.78",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "10/7/17",
+   "FIELD2": "104",
+   "FIELD3": "18",
+   "FIELD4": "1020",
+   "FIELD5": "cv",
+   "FIELD6": "2.68",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "10/8/17",
+   "FIELD2": "272",
+   "FIELD3": "17",
+   "FIELD4": "1019",
+   "FIELD5": "NE",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "10/9/17",
+   "FIELD2": "343",
+   "FIELD3": "20",
+   "FIELD4": "1020",
+   "FIELD5": "cv",
+   "FIELD6": "0.89",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "10/10/17",
+   "FIELD2": "328",
+   "FIELD3": "21",
+   "FIELD4": "1023",
+   "FIELD5": "cv",
+   "FIELD6": "0.89",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "10/11/17",
+   "FIELD2": "246",
+   "FIELD3": "18",
+   "FIELD4": "1021",
+   "FIELD5": "SE",
+   "FIELD6": "9.84",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "10/12/17",
+   "FIELD2": "3",
+   "FIELD3": "18",
+   "FIELD4": "1032",
+   "FIELD5": "NE",
+   "FIELD6": "15.2",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "10/13/17",
+   "FIELD2": "9",
+   "FIELD3": "16",
+   "FIELD4": "1027",
+   "FIELD5": "NW",
+   "FIELD6": "21",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "10/14/17",
+   "FIELD2": "31",
+   "FIELD3": "18",
+   "FIELD4": "1020",
+   "FIELD5": "cv",
+   "FIELD6": "3.57",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "10/15/17",
+   "FIELD2": "13",
+   "FIELD3": "21",
+   "FIELD4": "1014",
+   "FIELD5": "NW",
+   "FIELD6": "28.6",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "10/16/17",
+   "FIELD2": "17",
+   "FIELD3": "20",
+   "FIELD4": "1022",
+   "FIELD5": "SE",
+   "FIELD6": "9.84",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "10/17/17",
+   "FIELD2": "87",
+   "FIELD3": "20",
+   "FIELD4": "1016",
+   "FIELD5": "cv",
+   "FIELD6": "2.68",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "10/18/17",
+   "FIELD2": "155",
+   "FIELD3": "22",
+   "FIELD4": "1017",
+   "FIELD5": "cv",
+   "FIELD6": "2.67",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "10/19/17",
+   "FIELD2": "292",
+   "FIELD3": "20",
+   "FIELD4": "1014",
+   "FIELD5": "SE",
+   "FIELD6": "6.71",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "10/20/17",
+   "FIELD2": "268",
+   "FIELD3": "16",
+   "FIELD4": "1018",
+   "FIELD5": "SE",
+   "FIELD6": "8.94",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "10/21/17",
+   "FIELD2": "38",
+   "FIELD3": "14",
+   "FIELD4": "1026",
+   "FIELD5": "SE",
+   "FIELD6": "40.68",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "10/22/17",
+   "FIELD2": "104",
+   "FIELD3": "11",
+   "FIELD4": "1023",
+   "FIELD5": "SE",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "10/23/17",
+   "FIELD2": "145",
+   "FIELD3": "15",
+   "FIELD4": "1015",
+   "FIELD5": "cv",
+   "FIELD6": "1.78",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "10/24/17",
+   "FIELD2": "253",
+   "FIELD3": "17",
+   "FIELD4": "1011",
+   "FIELD5": "cv",
+   "FIELD6": "1.78",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "10/25/17",
+   "FIELD2": "331",
+   "FIELD3": "17",
+   "FIELD4": "1011",
+   "FIELD5": "cv",
+   "FIELD6": "1.78",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "10/26/17",
+   "FIELD2": "9",
+   "FIELD3": "16",
+   "FIELD4": "1027",
+   "FIELD5": "NE",
+   "FIELD6": "43.36",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "10/27/17",
+   "FIELD2": "35",
+   "FIELD3": "13",
+   "FIELD4": "1033",
+   "FIELD5": "SE",
+   "FIELD6": "3.13",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "10/28/17",
+   "FIELD2": "90",
+   "FIELD3": "13",
+   "FIELD4": "1027",
+   "FIELD5": "cv",
+   "FIELD6": "4.46",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "10/29/17",
+   "FIELD2": "105",
+   "FIELD3": "15",
+   "FIELD4": "1024",
+   "FIELD5": "cv",
+   "FIELD6": "1.78",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "10/30/17",
+   "FIELD2": "163",
+   "FIELD3": "14",
+   "FIELD4": "1023",
+   "FIELD5": "cv",
+   "FIELD6": "1.78",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "10/31/17",
+   "FIELD2": "144",
+   "FIELD3": "15",
+   "FIELD4": "1021",
+   "FIELD5": "SE",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "11/1/17",
+   "FIELD2": "12",
+   "FIELD3": "15",
+   "FIELD4": "1020",
+   "FIELD5": "NW",
+   "FIELD6": "20.12",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "11/2/17",
+   "FIELD2": "6",
+   "FIELD3": "14",
+   "FIELD4": "1024",
+   "FIELD5": "NW",
+   "FIELD6": "184.16",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "11/3/17",
+   "FIELD2": "11",
+   "FIELD3": "17",
+   "FIELD4": "1021",
+   "FIELD5": "cv",
+   "FIELD6": "3.58",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "11/4/17",
+   "FIELD2": "118",
+   "FIELD3": "13",
+   "FIELD4": "1016",
+   "FIELD5": "SE",
+   "FIELD6": "5.37",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "11/5/17",
+   "FIELD2": "8",
+   "FIELD3": "19",
+   "FIELD4": "1017",
+   "FIELD5": "NW",
+   "FIELD6": "7.6",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "11/6/17",
+   "FIELD2": "7",
+   "FIELD3": "10",
+   "FIELD4": "1031",
+   "FIELD5": "NE",
+   "FIELD6": "41.13",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "11/7/17",
+   "FIELD2": "60",
+   "FIELD3": "8",
+   "FIELD4": "1033",
+   "FIELD5": "cv",
+   "FIELD6": "3.56",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "11/8/17",
+   "FIELD2": "74",
+   "FIELD3": "11",
+   "FIELD4": "1028",
+   "FIELD5": "cv",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "11/9/17",
+   "FIELD2": "33",
+   "FIELD3": "14",
+   "FIELD4": "1025",
+   "FIELD5": "cv",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "11/10/17",
+   "FIELD2": "38",
+   "FIELD3": "14",
+   "FIELD4": "1022",
+   "FIELD5": "cv",
+   "FIELD6": "1.78",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "11/11/17",
+   "FIELD2": "14",
+   "FIELD3": "14",
+   "FIELD4": "1018",
+   "FIELD5": "NW",
+   "FIELD6": "53.21",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "11/12/17",
+   "FIELD2": "5",
+   "FIELD3": "7",
+   "FIELD4": "1027",
+   "FIELD5": "NW",
+   "FIELD6": "252.14",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "11/13/17",
+   "FIELD2": "16",
+   "FIELD3": "11",
+   "FIELD4": "1025",
+   "FIELD5": "NW",
+   "FIELD6": "9.84",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "11/14/17",
+   "FIELD2": "21",
+   "FIELD3": "11",
+   "FIELD4": "1027",
+   "FIELD5": "cv",
+   "FIELD6": "5.37",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "11/15/17",
+   "FIELD2": "128",
+   "FIELD3": "8",
+   "FIELD4": "1028",
+   "FIELD5": "cv",
+   "FIELD6": "3.12",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "11/16/17",
+   "FIELD2": "22",
+   "FIELD3": "11",
+   "FIELD4": "1025",
+   "FIELD5": "NW",
+   "FIELD6": "14.75",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "11/17/17",
+   "FIELD2": "14",
+   "FIELD3": "11",
+   "FIELD4": "1031",
+   "FIELD5": "NW",
+   "FIELD6": "13.86",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "11/18/17",
+   "FIELD2": "52",
+   "FIELD3": "11",
+   "FIELD4": "1030",
+   "FIELD5": "cv",
+   "FIELD6": "2.68",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "11/19/17",
+   "FIELD2": "346",
+   "FIELD3": "7",
+   "FIELD4": "1023",
+   "FIELD5": "cv",
+   "FIELD6": "2.23",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "11/20/17",
+   "FIELD2": "314",
+   "FIELD3": "6",
+   "FIELD4": "1017",
+   "FIELD5": "SE",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "11/21/17",
+   "FIELD2": "93",
+   "FIELD3": "10",
+   "FIELD4": "1020",
+   "FIELD5": "cv",
+   "FIELD6": "2.68",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "11/22/17",
+   "FIELD2": "31",
+   "FIELD3": "11",
+   "FIELD4": "1028",
+   "FIELD5": "NW",
+   "FIELD6": "26.83",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "11/23/17",
+   "FIELD2": "111",
+   "FIELD3": "7",
+   "FIELD4": "1025",
+   "FIELD5": "SE",
+   "FIELD6": "2.68",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "11/24/17",
+   "FIELD2": "19",
+   "FIELD3": "10",
+   "FIELD4": "1027",
+   "FIELD5": "NE",
+   "FIELD6": "10.73",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "11/25/17",
+   "FIELD2": "157",
+   "FIELD3": "6",
+   "FIELD4": "1021",
+   "FIELD5": "cv",
+   "FIELD6": "4.46",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "11/26/17",
+   "FIELD2": "241",
+   "FIELD3": "6",
+   "FIELD4": "1016",
+   "FIELD5": "cv",
+   "FIELD6": "3.56",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "11/27/17",
+   "FIELD2": "13",
+   "FIELD3": "6",
+   "FIELD4": "1025",
+   "FIELD5": "NW",
+   "FIELD6": "5.81",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "11/28/17",
+   "FIELD2": "77",
+   "FIELD3": "8",
+   "FIELD4": "1020",
+   "FIELD5": "cv",
+   "FIELD6": "1.78",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "11/29/17",
+   "FIELD2": "301",
+   "FIELD3": "4",
+   "FIELD4": "1021",
+   "FIELD5": "cv",
+   "FIELD6": "2.23",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "11/30/17",
+   "FIELD2": "23",
+   "FIELD3": "8",
+   "FIELD4": "1022",
+   "FIELD5": "NW",
+   "FIELD6": "57.67",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "12/1/17",
+   "FIELD2": "14",
+   "FIELD3": "-1",
+   "FIELD4": "1033",
+   "FIELD5": "NW",
+   "FIELD6": "313.38",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "12/2/17",
+   "FIELD2": "52",
+   "FIELD3": "-1",
+   "FIELD4": "1028",
+   "FIELD5": "cv",
+   "FIELD6": "2.68",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "12/3/17",
+   "FIELD2": "11",
+   "FIELD3": "0",
+   "FIELD4": "1027",
+   "FIELD5": "NW",
+   "FIELD6": "51.85",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "12/4/17",
+   "FIELD2": "9",
+   "FIELD3": "0",
+   "FIELD4": "1027",
+   "FIELD5": "NW",
+   "FIELD6": "37.55",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "12/5/17",
+   "FIELD2": "13",
+   "FIELD3": "2",
+   "FIELD4": "1027",
+   "FIELD5": "NW",
+   "FIELD6": "29.05",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "12/6/17",
+   "FIELD2": "16",
+   "FIELD3": "4",
+   "FIELD4": "1026",
+   "FIELD5": "cv",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "12/7/17",
+   "FIELD2": "54",
+   "FIELD3": "4",
+   "FIELD4": "1026",
+   "FIELD5": "NW",
+   "FIELD6": "12.97",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "12/8/17",
+   "FIELD2": "40",
+   "FIELD3": "3",
+   "FIELD4": "1035",
+   "FIELD5": "cv",
+   "FIELD6": "2.68",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "12/9/17",
+   "FIELD2": "339",
+   "FIELD3": "-1",
+   "FIELD4": "1035",
+   "FIELD5": "cv",
+   "FIELD6": "0.89",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "12/10/17",
+   "FIELD2": "63",
+   "FIELD3": "5",
+   "FIELD4": "1026",
+   "FIELD5": "NW",
+   "FIELD6": "23.68",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "12/11/17",
+   "FIELD2": "14",
+   "FIELD3": "3",
+   "FIELD4": "1031",
+   "FIELD5": "NW",
+   "FIELD6": "8.05",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "12/12/17",
+   "FIELD2": "17",
+   "FIELD3": "2",
+   "FIELD4": "1027",
+   "FIELD5": "NW",
+   "FIELD6": "103.25",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "12/13/17",
+   "FIELD2": "58",
+   "FIELD3": "2",
+   "FIELD4": "1029",
+   "FIELD5": "cv",
+   "FIELD6": "0.89",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "12/14/17",
+   "FIELD2": "53",
+   "FIELD3": "5",
+   "FIELD4": "1027",
+   "FIELD5": "cv",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "12/15/17",
+   "FIELD2": "10",
+   "FIELD3": "4",
+   "FIELD4": "1027",
+   "FIELD5": "NW",
+   "FIELD6": "57.66",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "12/16/17",
+   "FIELD2": "9",
+   "FIELD3": "-1",
+   "FIELD4": "1031",
+   "FIELD5": "NW",
+   "FIELD6": "250.32",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "12/17/17",
+   "FIELD2": "152",
+   "FIELD3": "0",
+   "FIELD4": "1029",
+   "FIELD5": "cv",
+   "FIELD6": "0.89",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "12/18/17",
+   "FIELD2": "132",
+   "FIELD3": "1",
+   "FIELD4": "1029",
+   "FIELD5": "NE",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "12/19/17",
+   "FIELD2": "17",
+   "FIELD3": "5",
+   "FIELD4": "1024",
+   "FIELD5": "NW",
+   "FIELD6": "64.37",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "12/20/17",
+   "FIELD2": "NA",
+   "FIELD3": "0",
+   "FIELD4": "1030",
+   "FIELD5": "NW",
+   "FIELD6": "244.97",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "12/21/17",
+   "FIELD2": "21",
+   "FIELD3": "0",
+   "FIELD4": "1027",
+   "FIELD5": "NW",
+   "FIELD6": "396.49",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "12/22/17",
+   "FIELD2": "80",
+   "FIELD3": "6",
+   "FIELD4": "1024",
+   "FIELD5": "cv",
+   "FIELD6": "1.78",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "12/23/17",
+   "FIELD2": "95",
+   "FIELD3": "6",
+   "FIELD4": "1020",
+   "FIELD5": "NW",
+   "FIELD6": "21.02",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "12/24/17",
+   "FIELD2": "12",
+   "FIELD3": "4",
+   "FIELD4": "1034",
+   "FIELD5": "NW",
+   "FIELD6": "4.92",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "12/25/17",
+   "FIELD2": "16",
+   "FIELD3": "7",
+   "FIELD4": "1033",
+   "FIELD5": "NW",
+   "FIELD6": "7.15",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "12/26/17",
+   "FIELD2": "131",
+   "FIELD3": "0",
+   "FIELD4": "1032",
+   "FIELD5": "cv",
+   "FIELD6": "0.89",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "12/27/17",
+   "FIELD2": "194",
+   "FIELD3": "3",
+   "FIELD4": "1029",
+   "FIELD5": "NW",
+   "FIELD6": "27.73",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "12/28/17",
+   "FIELD2": "69",
+   "FIELD3": "7",
+   "FIELD4": "1019",
+   "FIELD5": "NE",
+   "FIELD6": "1.79",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "12/29/17",
+   "FIELD2": "56",
+   "FIELD3": "9",
+   "FIELD4": "1013",
+   "FIELD5": "NW",
+   "FIELD6": "3.13",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "12/30/17",
+   "FIELD2": "49",
+   "FIELD3": "7",
+   "FIELD4": "1019",
+   "FIELD5": "SE",
+   "FIELD6": "3.58",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ },
+ {
+   "FIELD1": "12/31/17",
+   "FIELD2": "17",
+   "FIELD3": "0",
+   "FIELD4": "1033",
+   "FIELD5": "NW",
+   "FIELD6": "177.44",
+   "FIELD7": "0",
+   "FIELD8": "0"
+ }
+]
