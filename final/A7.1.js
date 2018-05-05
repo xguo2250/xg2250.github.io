@@ -1,18 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8">
-    <title>Xin's Final Project</title>
-    <!-- chart.js is a better way to do the chart haha, easier way-->
-    <script src="echarts.js"></script>
-</head>
-<body>
-
-    <!canvas=600*800>
-    <div id="main" style="width: 100%;height:800px;"></div>
-    <script type="text/javascript">
-    //set coding environment;
-    var myChart = echarts.init(document.getElementById('main'));
+ var myChart = echarts.init(document.getElementById('main'));
     //start coding
 
 
@@ -51,7 +37,6 @@
         title: {
         top: 25,
         text: 'Beijing Air Quality 2017',
-        subtext: 'Xin Guo',
         left: 'center',
         textStyle: {
             color: 'black'
@@ -102,6 +87,3 @@
 
         // 
         myChart.setOption(option);
-    </script>
-</body>
-</html>
