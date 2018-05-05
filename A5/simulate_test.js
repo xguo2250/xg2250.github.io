@@ -2,7 +2,7 @@ var izzms = [],
 		sizer = 13;
 
 function setup() {
-  createCanvas(windowWidth, windowHeight);
+  createCanvas(1000, 1000);
 
 
   var prox = 20,
@@ -22,7 +22,7 @@ function draw() {
   stroke(0);
   strokeWeight(17);
   for (var i = izzms.length - 1; i >= 0; i--) {
-    var h = calcVec(izzms[i].x - mouseX, izzms[i].y - map(minute(),0,59,0,600));
+    var h = calcVec(izzms[i].x - mouseX, izzms[i].y - map(second(),0,59,0,600));
     line(
       izzms[i].x,
       izzms[i].y,
