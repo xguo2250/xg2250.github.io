@@ -2,7 +2,7 @@ var izzms = [],
 		sizer = 13;
 
 function setup() {
-  createCanvas(1000, 1000);
+  createCanvas(700, 700);
 
 
   var prox = 20,
