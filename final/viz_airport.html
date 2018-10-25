@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Airport Passager Flow</title>
+    <!-- use chart.js to present the program-->
+    <script src="echarts.js"></script>
+</head>
+<body>
+
+    <div id="main" style="width: 1800px ;height:1000px;"></div>
+    <script type="text/javascript">
+    //set coding environment;
+    var myChart = echarts.init(document.getElementById('main'));
+    //start coding
+
+    //define x axis
+
+var xAxisData = [];
+var qingdao = ['7867982',8200367,9660129
+,11101176
+,11716361,
+12601152,
+14516669,
+16411789,
+18202085,
+20505038,
+23210530,
+];
+var tianjin = [3860752,
+4637299,
+5780281,
+7277106,
+7554172,
+8139988,
+10035833,
+12073041,
+14314322,
+16871889,
+21005001,
+];
+var harbin = [4432645,
+4985212,
+6558796,
+7259498,
+7841521,
+9143823,
+10259908,
+12239026,
+14054357,
+16267130,
+18810317,
+]
+var dalian = [7281084,
+8205454,
+9550365,
+10703640,
+12012094,
+13337184,
+14083131,
+13551223,
+14154130,
+15258209,
+17503810,
+]
+var shenyang = [6190448,
+6807235,
+7504828,
+8619897,
+10231185,
+11011800,
+12106952,
+12800272,
+12680118,
+14967228,
+17342626,
+]
+var changchun = [2622682,
+3049767,
+3878416,
+4749471,
+4971667,
+5819581,
+6733076,
+7421726,
+8556182,
+9493351,
+11662943,
+]
+
+option = {
+    title: {
+        text: '近十年机场客流量（人次）',
+        align: 'middle'
+    },
+    legend: {
+        data: ['青岛', '天津','哈尔滨','大连','沈阳','长春'],
+        align: 'left'
+    },
+    toolbox: {
+        // y: 'bottom',
+        feature: {
+            magicType: {
+                type: ['stack', 'tiled','line']
+            },
+            dataView: {},
+            saveAsImage: {
+                pixelRatio: 2
+            }
+        }
+    },
+    tooltip: {
+          trigger: 'axis',
+            axisPointer: {
+                type: 'shadow'
+            }
+    },
+    xAxis: {
+        data: ['2007','2008','2009','2010','2011','2012','2013','2014','2015','2016','2017'],
+        silent: false,
+        splitLine: {
+            show: false
+        }
+    },
+    yAxis: {
+    },
+    series: [{
+        name: '青岛',
+        type: 'bar',
+        data: qingdao,
+        animationDelay: function (idx) {
+            return idx * 10;
+        }
+    },  {
+        name: '天津',
+        type: 'bar',
+        data: tianjin,
+        animationDelay: function (idx) {
+            return idx * 10 + 100;
+        } 
+    }, {
+        name: '哈尔滨',
+        type: 'bar',
+        data: harbin,
+        animationDelay: function (idx) {
+            return idx * 10 + 100;
+        } 
+    }, {
+        name: '大连',
+        type: 'bar',
+        data: dalian,
+        animationDelay: function (idx) {
+            return idx * 10 + 100;
+        } 
+    }, {
+        name: '沈阳',
+        type: 'bar',
+        data: shenyang,
+        animationDelay: function (idx) {
+            return idx * 10 + 100;
+        } 
+    }, {
+        name: '长春',
+        type: 'bar',
+        data: changchun,
+        animationDelay: function (idx) {
+            return idx * 10 + 100;
+        } 
+    }],
+    animationEasing: 'elasticOut',
+    animationDelayUpdate: function (idx) {
+        return idx * 5;
+    }
+};
+   
+
+        // 
+        myChart.setOption(option);
+    </script>
+
+
+
+
+</body>
+</html>
